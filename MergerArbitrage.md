@@ -1,0 +1,2 @@
+# Merger Arbitrage - Thomas Kirchner
+
