@@ -42,3 +42,7 @@
 - Merger arb has low correlation with the overall market
 - A transaction at a discount to the last trading price (when announced) is called a _takeunder_
 - A key component with investments is not just the return achieved but also the time needed. (more useful is the annualized return achieved)
+- Can annualize returns with simple interest or compound interest
+- Time: The time between when the arb trade is placed and the closing date of the merger
+- Make sure yeilds are compared on similar bases
+- Be careful if a dividend is to be paid during the merger period. The price of the stock may be above the merger offer for this reason. Must incorporate dividends in return calculations
