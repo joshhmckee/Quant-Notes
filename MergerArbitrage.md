@@ -26,3 +26,13 @@
 ###
 - Potential acquirers sometimes enter into a letter of intent before signing a formal merger agreement.
 - The only real merger arb occurs when the arber enters the position after a definitive agreement has been signed between the target and the acquirer.
+- Book addresses transactions in which a definitive agreement has been reached.
+- The upside in a merger is limited to the payment received when the merger closes. (Asymmetric payoff distribution)
+- Option selling has a similar payoff distribution to merger arb.
+- From an arbers point of view, the most important characteristic of a merger is the form of payment received.
+##### Three main categories of mergers and one rare category:
+- Cash mergers: Shareholders of target firm receive cash for their shares
+- Stock-for-stock mergers: Shares of target firm are exchanged for shares of the acquirer
+- Mixed stock and cash mergers: Shareholders of the target firm receive a mix of cash and share exchange
+- Other considerations: Rare but may receive debt securities, spun-off divisions of target, contingent value rights etc
+## 2 - The Mechanics of Merger Arbitrage
