@@ -36,3 +36,5 @@
 - Mixed stock and cash mergers: Shareholders of the target firm receive a mix of cash and share exchange
 - Other considerations: Rare but may receive debt securities, spun-off divisions of target, contingent value rights etc
 ## 2 - The Mechanics of Merger Arbitrage
+- Spread: The difference between the consideration (offer) price and the stock price.
+- Spread could be negative (stock price higher than offer price) if there is speculation another cash buyer may enter and pay a higher price.
