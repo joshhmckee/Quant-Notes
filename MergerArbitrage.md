@@ -38,3 +38,7 @@
 ## 2 - The Mechanics of Merger Arbitrage
 - Spread: The difference between the consideration (offer) price and the stock price.
 - Spread could be negative (stock price higher than offer price) if there is speculation another cash buyer may enter and pay a higher price.
+- For regulatory reasons, companies typically announce significant events like mergers prior or after regular market hours (prevent abuse from investors with better access to news)
+- Merger arb has low correlation with the overall market
+- A transaction at a discount to the last trading price (when announced) is called a _takeunder_
+- A key component with investments is not just the return achieved but also the time needed. (more useful is the annualized return achieved)
