@@ -25,3 +25,4 @@
 - Fraud or misrepresentations discovered
 ###
 - Potential acquirers sometimes enter into a letter of intent before signing a formal merger agreement.
+- The only real merger arb occurs when the arber enters the position after a definitive agreement has been signed between the target and the acquirer.
