@@ -46,3 +46,6 @@
 - Time: The time between when the arb trade is placed and the closing date of the merger
 - Make sure yeilds are compared on similar bases
 - Be careful if a dividend is to be paid during the merger period. The price of the stock may be above the merger offer for this reason. Must incorporate dividends in return calculations
+- In stock-for-stock mergers, the buyer proposes to acquire a target by paying in shares rather than in cash
+- The ratio of stock for stock in a stock-for-stock merger is referred to as the exchange ratio or conversion factor
+- If you borrow shares from someone on an exchange and they request them back (because they want to sell), you will either have to cover and return the shares or the exchange will do that for you (if they cant find someone else to lend shares to you).
